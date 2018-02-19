@@ -4,10 +4,12 @@ Final Proyect CECS 2223
 Working on:
   - Orlando :: Date Class
   - Pedro   :: Service Class
+  
 Added:
   - Loop Style Menu
   - Info.txt
   - Code can now read txt files in main
+  
 Pending:
   - Make it work?
   - Turn in before march 19
