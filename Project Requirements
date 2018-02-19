@@ -1,0 +1,14 @@
+Instruction for final Project:  Read carefully all instructions. 
+
+1.	Projects delivered before March 19, 2017 will receive a 5-point bonus to be applied to the final project grade.   
+2.	The project must be based on the topics discussed on the Labs of this course. 
+3.	All projects must include a loop style menu which will only close if the user decides to. 
+4.	All projects will save the information to two different file types: txt and csv. User must specify the path and name of the file. 
+5.	When printing in console the information should be readable and in tabular form.
+6.	User entries must be validated always. (use of try-catch is highly recommended)
+7.	The organization and readability of the program will be determined by the easiness of use of the console menu. 
+8.	All programs must use the concept of base class, hierarchy, at least two functions of the class must be overloaded. 
+9.	All programs must handle dates using a class.  
+10.	As an option within the menu the information of all the creators of the project must be specified. (student’s complete name, student’s     id, student’s major and student’s email)
+11.	On Blackboard the group/student is responsible for uploading the entire solution including the .exe of the solution. The files used as     examples of the system should also be uploaded with testing data. Create a new file for the project and share it with the professor. 
+12.	Attached to the project, you must hand in a single page word document. This will be an individual work for each teammate. The document     should include your name, student id, and the overall explanation of what does your code do, how does it work and enhancements you         think should be added on the future (not specified in the project description). (Font size 12 on Calibri or Times New Roman, single       space, margin of no less of 1”).
