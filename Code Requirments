@@ -1,0 +1,18 @@
+Project 3: Car Repair Shop 
+
+Design and develop a Car Repair Shop. 
+This shop offers a variety of services to its customers like 
+  oil change        new tires 
+  balance tires     transmission liquid change 
+  car wash          car paint 
+              etc. 
+Your program should have a menu in which the user can establish all the services offered. 
+Each service has
+  name              location and 
+            price
+The program also allows to enter a new customer order. 
+The customer order allows the user to select all services to be offered by the repair shop and calculate a total due. 
+The user can select to print the receipt in which case the receipt will be saved in a txt file with the name of the customer. 
+At any time, the user can select to update a service.
+Upon editing a service the system will save the created date of the service with the current date. 
+At any time the user can print all the services offered by the Car Repair Shop and can either select to print all in console or export to csv (user specifies the path).
